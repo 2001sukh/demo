@@ -5,12 +5,13 @@
     <title>Demo</title>
 </head>
 <body>
-    <h1>
+<h1>
+     
         <?php
-         $greeting = "Hello";
-        echo $greeting . " " . "Everybody!";
+        $greeting = "Hello";
+        echo "$greeting Everybody!";
         ?>
-    
-    </h1>
+            
+        </h1>
 </body>
 </html>
