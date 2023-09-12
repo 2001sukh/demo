@@ -6,7 +6,10 @@
 </head>
 <body>
     <h1>
-        hello world 
+        <?php
+        echo "hello world "
+        ?>
+    
     </h1>
 </body>
 </html>
